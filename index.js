@@ -89,7 +89,7 @@ function cesitEkle(productList, productAdd){
   
 return productList;
 }
- console.log(cesitEkle(orijinalTatlar, "Kakule"))
+// console.log(cesitEkle(orijinalTatlar, "Kakule"))
 
 /* Cörev 4:
 
@@ -126,6 +126,7 @@ function indekstekiCesitiGetir(array, index){
   return array[index];
 }
 
+// console.log(orijinalTatlar,indekstekiCesitiGetir(orijinalTatlar, 2))
 
 /* Görev 6:
 
